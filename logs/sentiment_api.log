@@ -1,0 +1,11 @@
+2025-11-05 10:48:01.817 | INFO     | sentiment_api:analyse_sentiment:29 - Analyse du texte: J’adore ce produit, il est incroyable !
+2025-11-05 10:48:01.818 | INFO     | sentiment_api:analyse_sentiment:32 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-11-05 11:00:09.818 | INFO     | sentiment_api:analyse_sentiment:29 - Analyse du texte: je suis heureux
+2025-11-05 11:00:09.818 | INFO     | sentiment_api:analyse_sentiment:32 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-11-05 11:02:20.724 | INFO     | sentiment_api:analyse_sentiment:29 - Analyse du texte: i'm happy
+2025-11-05 11:02:20.724 | INFO     | sentiment_api:analyse_sentiment:32 - Résultats: {'neg': 0.0, 'neu': 0.213, 'pos': 0.787, 'compound': 0.5719}
+2025-11-05 11:02:30.524 | INFO     | sentiment_api:analyse_sentiment:29 - Analyse du texte: i'm angry
+2025-11-05 11:02:30.524 | INFO     | sentiment_api:analyse_sentiment:32 - Résultats: {'neg': 0.767, 'neu': 0.233, 'pos': 0.0, 'compound': -0.5106}
+2025-11-05 11:02:42.163 | INFO     | sentiment_api:analyse_sentiment:29 - Analyse du texte: i'm quite
+2025-11-05 11:02:42.163 | INFO     | sentiment_api:analyse_sentiment:32 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
