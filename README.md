@@ -71,7 +71,7 @@ La validation des données est assurée par **Pydantic**, qui garantit que les r
 Un modèle de données simple définit un champ unique `texte` qui doit contenir une chaîne de caractères.  
 
 
-## 🪵 Journalisation (Loguru)
+## Journalisation (Loguru)
 
 La **journalisation** permet de suivre l’activité de l’application et de diagnostiquer les erreurs.  
 La bibliothèque **Loguru** enregistre :
